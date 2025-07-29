@@ -11,8 +11,8 @@
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
+git clone https://github.com/diogocoutinhocoelho/PersonalFinances.git
+cd PersonalFinances
 docker-compose up --build
 ```
 
